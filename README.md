@@ -1,3 +1,3 @@
 # rymbau.github.io
 
-rym/accueil
+rym/home with articles and projects links
